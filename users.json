@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "karla ramirez",
+    "correo": "karlaramirezc25@cetis146.edu.mx",
+    "edad": "15"
+  },
+  {
+    "nombre": "Juan P\u00e9rez",
+    "correo": "juan@example.com",
+    "edad": "25"
+  },
+  {
+    "nombre": "lola",
+    "correo": "lolacarreraq@gmail.com",
+    "edad": "16"
+  }
+]
